@@ -1,0 +1,121 @@
+body{
+    background-image: url(https://img1.picmix.com/output/stamp/normal/3/8/7/5/325783_cc71b.gif);
+}
+
+div{
+    padding: 0px;
+    
+}
+
+.show-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+img{
+    border: 10px;
+    border-radius: 40%;
+    padding: 10px;
+}
+
+.first{
+    align-self: center;
+}
+
+.first > h2{
+    font-family: 'Satisfy', cursive;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.first >h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: #5C469C;
+}
+
+.first > h3{
+    font-family: 'Caveat', cursive;
+    font-size: 2.8rem;
+    margin: 0;
+    color: #2D033B;
+    font-weight: bolder;
+    background-color: white;
+}
+
+.ninth{
+    text-align: center;
+    font-size: 2rem;
+    color: rebeccapurple;
+    background-color: hsl(26, 31%, 84%);
+    border: 10px solid #27E1C1;
+    border-radius: 10%;
+    margin: 10px;
+    font-family: 'Merriweather', serif;
+    border-style: ridge;
+}
+
+.third{
+    background-color: #46CDCF;
+    border: 10px solid #46CDCF;
+    border-style: groove;
+    border-radius: 5%;
+}
+
+.third h3{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 2rem;
+    font-style: oblique;
+}
+
+.third li{
+    font-size: 1.5rem;
+}
+.third p{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.fourth{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.fourth h4, .fifth h4{
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+
+.fifth{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.eight{
+    display: flex;
+    justify-content: space-around;
+}
+.seventh{
+    background-color: #EFF8FF;
+    font-family: 'Roboto Mono', monospace;
+    border: 10px;
+    font-size: 1.2rem;
+}
+
+.sixth{
+    background-color: #F9F5E7;
+    border: 10px;
+    border-style: inset;
+    margin: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+.sixth > h3{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bolder;
+}
+.sixth >p{
+    font-size: 1.5rem;
+}
